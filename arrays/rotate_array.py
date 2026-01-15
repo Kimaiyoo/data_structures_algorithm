@@ -14,4 +14,4 @@ def rotate_array(array, k):
     return array
 
 # test
-print(rotate_array([1,2,3,4,5   ],8 ))
+print(rotate_array([1,2,3,4,5],8 ))
