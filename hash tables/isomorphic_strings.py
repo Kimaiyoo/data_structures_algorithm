@@ -32,3 +32,9 @@ def isomorphic_strings(s, t):
 # test
 print(isomorphic_strings('food','feed'))
 print(isomorphic_strings('egg','food'))
+
+'''
+complexities:
+Time Complexity:    O(N)
+Space Complexity:   O(N)
+'''
