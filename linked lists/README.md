@@ -1,6 +1,6 @@
 # Linked Lists
 
-A *linked list* is a linear data structure made up of **nodes**, where each node
+A **linked list** is a linear data structure made up of **nodes**, where each node
 stores a value and a reference to the next node.
 
 Unlike arrays, linked lists are not stored contiguously in memory and must be
